@@ -31,5 +31,3 @@ Uno de los resistores es de 1.0 kΩ. ¿Cuál es el otro resistor?
 
 [![10b.png](https://i.postimg.cc/hjVLPwSb/10b.png)](https://postimg.cc/r0F0ffRK)
 
-12) Determine la corriente a través de cada resistor en cada circuito de la figura 7-63; luego calcule cada
-caída de voltaje.
