@@ -75,3 +75,7 @@ Las resistencias presentes en los ejercicios pueden estar en tan distintas posic
 
 (S/f). Espora.org. Recuperado el 2 de julio de 2022, de http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf
 
+El Teorema de Norton. (2020, noviembre 10). Mi Universo Electrónico. https://miuniversoelectronico.com/el-teorema-de-norton/
+
+
+
